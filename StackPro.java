@@ -9,7 +9,7 @@ import java.util.Vector;
 
 public class StackPro {
 	public static void main(String[] args) {
-	/*	Stack s1 = new Stack();
+		Stack s1 = new Stack();
 		
 		s1.add(23);
 		s1.add(232);
@@ -34,7 +34,7 @@ public class StackPro {
 		while(l22.hasPrevious()) {
 			System.out.println(l22.previous());
 		} 
-		*/
+		
 		
 		
 		Stack s2 = new Stack();
